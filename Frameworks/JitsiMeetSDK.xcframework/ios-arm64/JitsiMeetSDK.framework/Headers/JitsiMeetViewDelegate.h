@@ -38,6 +38,13 @@
 - (void)conferenceTerminated:(NSDictionary *)data;
 
 /**
+ * Called before conference terminated.
+ *
+ * The `data` dictionary contains a participantsStats object with speaking time data.
+ */
+- (void)onConferenceParticipantsStats:(NSDictionary *)data;
+
+/**
  * Called before a conference is joined.
  *
  * The `data` dictionary contains a `url` key with the conference URL.
