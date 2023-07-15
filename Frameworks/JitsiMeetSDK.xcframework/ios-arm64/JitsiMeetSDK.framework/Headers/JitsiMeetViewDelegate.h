@@ -42,7 +42,7 @@
  *
  * The `data` dictionary contains a participantsStats object with speaking time data.
  */
-- (void)onConferenceParticipantsStats:(NSDictionary *)data;
+- (void)conferenceParticipantsStats:(NSDictionary *)data;
 
 /**
  * Called before a conference is joined.
