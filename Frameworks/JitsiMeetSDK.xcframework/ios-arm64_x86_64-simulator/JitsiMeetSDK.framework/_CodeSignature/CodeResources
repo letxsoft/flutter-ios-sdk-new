@@ -6,7 +6,27 @@
 	<dict>
 		<key>AccessibilityResources.bundle/Info.plist</key>
 		<data>
-		ZhRpmh5QFxY92RpRhN8ys4WI0nc=
+		NK1XFGxGPqJF0Xz6hcuR6SHhTlw=
+		</data>
+		<key>AccessibilityResources.bundle/_CodeSignature/CodeDirectory</key>
+		<data>
+		DM8V/ZE7YSMPfUJpOJM/TjBDwQg=
+		</data>
+		<key>AccessibilityResources.bundle/_CodeSignature/CodeRequirements</key>
+		<data>
+		OnX22wWFKRSOFN1+obRynMCeyXM=
+		</data>
+		<key>AccessibilityResources.bundle/_CodeSignature/CodeRequirements-1</key>
+		<data>
+		gNWY8dpzbpz4MD9DbLWD6gdSflU=
+		</data>
+		<key>AccessibilityResources.bundle/_CodeSignature/CodeResources</key>
+		<data>
+		ZA2OUR/SauLMDkFtLt2Qi2C9wB4=
+		</data>
+		<key>AccessibilityResources.bundle/_CodeSignature/CodeSignature</key>
+		<data>
+		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
 		</data>
 		<key>AccessibilityResources.bundle/en.lproj/Localizable.strings</key>
 		<dict>
@@ -27,11 +47,31 @@
 		</data>
 		<key>GoogleSignIn.bundle/Info.plist</key>
 		<data>
-		/Bx1/pzxwhmXmRsoV+u41g03XTQ=
+		BcaVkgmEN8uAjpD64d6JZC1O9uE=
 		</data>
 		<key>GoogleSignIn.bundle/Roboto-Bold.ttf</key>
 		<data>
 		RzJ98PNefNfIZFh0iXp0SWl1RK4=
+		</data>
+		<key>GoogleSignIn.bundle/_CodeSignature/CodeDirectory</key>
+		<data>
+		Zym2KuZDxqiPzfarReStv8nCWzk=
+		</data>
+		<key>GoogleSignIn.bundle/_CodeSignature/CodeRequirements</key>
+		<data>
+		OnX22wWFKRSOFN1+obRynMCeyXM=
+		</data>
+		<key>GoogleSignIn.bundle/_CodeSignature/CodeRequirements-1</key>
+		<data>
+		pZfWjT5kY6Hwd5f2/8g0937cL0Y=
+		</data>
+		<key>GoogleSignIn.bundle/_CodeSignature/CodeResources</key>
+		<data>
+		Qhb74FbnfeuJ0jvq6lCwsuLRYKI=
+		</data>
+		<key>GoogleSignIn.bundle/_CodeSignature/CodeSignature</key>
+		<data>
+		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
 		</data>
 		<key>GoogleSignIn.bundle/ar.lproj/GoogleSignIn.strings</key>
 		<dict>
@@ -429,11 +469,11 @@
 		</data>
 		<key>Headers/JitsiMeetViewDelegate.h</key>
 		<data>
-		6YFSDcZCOmyU5MpLeZEF6O4kQnE=
+		5knSbRZsXqtufgHH+BYyonVpIF4=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		RQnZ3NrVmIkI6VEVoVl7G/GpTSI=
+		S9nShlMVn4wbvyjpS2D5CaX6ypM=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -569,7 +609,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		sPJyc6rNC4SCnFTtKxb7PhyMj/s=
+		Msp7cNOKFEx6/802ZeXhSZjOjVE=
 		</data>
 		<key>noAudioSignal.mp3</key>
 		<data>
@@ -646,7 +686,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uwse/AmBll1o7rdVnlBtYZ5IUbjHe7HMfnNjDQA9xGo=
+			cIbP2Lim0CT9Aq5088h1S3Bt/ItIeA8ibsrgp5bEI7A=
+			</data>
+		</dict>
+		<key>AccessibilityResources.bundle/_CodeSignature/CodeDirectory</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rihDTNLMHcM7DFlta2hsmaHFK0j/Qtd83Y0PmVcNiks=
+			</data>
+		</dict>
+		<key>AccessibilityResources.bundle/_CodeSignature/CodeRequirements</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mHkgkE6rZQ51eIwFSqCwUk5qgL/HGqMt+NI3phdD+YY=
+			</data>
+		</dict>
+		<key>AccessibilityResources.bundle/_CodeSignature/CodeRequirements-1</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			a/Dk+nYsiZuCXKzRI3fMl3JAOz2AiQPMTj40gkrLH2Y=
+			</data>
+		</dict>
+		<key>AccessibilityResources.bundle/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SMLsTIrqiAkRdNeDGWaFt/v3IpWWZDWIJNd4y4nKPQI=
+			</data>
+		</dict>
+		<key>AccessibilityResources.bundle/_CodeSignature/CodeSignature</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
 			</data>
 		</dict>
 		<key>AccessibilityResources.bundle/en.lproj/Localizable.strings</key>
@@ -676,7 +751,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8IbJzztlBiAoSreEyXmu0JyZ/I0rsfykWeUJyiXXJ24=
+			7Yo+ea5tPLWPMUNMOWO7zChGx6Q4rn3NTKSfNF71iGM=
 			</data>
 		</dict>
 		<key>GoogleSignIn.bundle/Roboto-Bold.ttf</key>
@@ -684,6 +759,41 @@
 			<key>hash2</key>
 			<data>
 			WU10pJ4we+fMnh7l8QI2hOaCDPEbzJaL7lkDkeGtWlo=
+			</data>
+		</dict>
+		<key>GoogleSignIn.bundle/_CodeSignature/CodeDirectory</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oxa9MXhAdg9tSIhyqDaWjfNFDCAjkqtMb9kEqMO/0BY=
+			</data>
+		</dict>
+		<key>GoogleSignIn.bundle/_CodeSignature/CodeRequirements</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mHkgkE6rZQ51eIwFSqCwUk5qgL/HGqMt+NI3phdD+YY=
+			</data>
+		</dict>
+		<key>GoogleSignIn.bundle/_CodeSignature/CodeRequirements-1</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7QrHm/00FJeqHGMC8N8Zf0iqUbUhpmRxZsxkUvMnBek=
+			</data>
+		</dict>
+		<key>GoogleSignIn.bundle/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2zCixoHyiYx2Ub6g9ytFQUanb6FE6+1z6Hh0Bj51Trs=
+			</data>
+		</dict>
+		<key>GoogleSignIn.bundle/_CodeSignature/CodeSignature</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
 			</data>
 		</dict>
 		<key>GoogleSignIn.bundle/ar.lproj/GoogleSignIn.strings</key>
@@ -1123,7 +1233,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TECY1sks7ATK6r1qr18gtTJTEkrUjWkWyH9bpGvSLo4=
+			KU1sr9wNpK/UpBZUPJyj5jCVx2G/JCxVur0FzwD4mEw=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -1361,7 +1471,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fvxtfKvYsvIVrfZxLQnw0lPBsg49+Sz6BHwkfHQ8/9E=
+			g8e19YTDBbxoUwsn4Dj34m5umSWMdrw2tWduVZWjblQ=
 			</data>
 		</dict>
 		<key>noAudioSignal.mp3</key>
